@@ -1,7 +1,7 @@
 # Geovani França
 
 **Senior Backend Engineer @ [Contabilizei](https://contabilizei.com.br)**  
-São Paulo, Brasil 🇧🇷 · [geovani.dev](https://geovani.dev) · [linkedin](https://linkedin.com/in/mechamogeo) · [dribbble](https://dribbble.com/mechamogeo) · [twitch](https://twitch.tv/mechamogeo)
+São Paulo, Brasil · [geovani.dev](https://geovani.dev) · [linkedin](https://linkedin.com/in/mechamogeo) · [dribbble](https://dribbble.com/mechamogeo) · [twitch](https://twitch.tv/mechamogeo)
 
 > *“All I know is that I know nothing.”* — Socrates
 
@@ -9,7 +9,7 @@ Engenheiro de Software focado em sistemas distribuídos de alta escala, arquitet
 
 ---
 
-### 💼 Trajetória
+### Trajetória
 
 * **Contabilizei** — *Senior Backend Engineer* `(2025 – Presente)`  
   Arquitetura de microsserviços para o funil de aquisição de clientes, pipelines de IA aplicada em produção (triagem via LLMs, assistente conversacional WhatsApp, busca vetorial com Vertex AI + Pinecone), mensageria com Kafka e ecossistema GCP.
@@ -25,7 +25,7 @@ Engenheiro de Software focado em sistemas distribuídos de alta escala, arquitet
 
 ---
 
-### 🛠️ Stack & Tecnologias
+### Stack & Tecnologias
 
 * **Linguagens:** Java, Go, Python, TypeScript, JavaScript
 * **Linguagens Funcionais:** Elixir, Clojure, Scala
@@ -37,18 +37,10 @@ Engenheiro de Software focado em sistemas distribuídos de alta escala, arquitet
 
 ---
 
-### 🎵 Ouvindo no Momento
-
-<div align="center">
+### Ouvindo no momento
 
 [![Last.fm](https://lastfm-recently-played.vercel.app/api?user=mechamogeo&count=1&header_style=none&footer_style=none&width=450)](https://www.last.fm/user/mechamogeo)
 
-</div>
-
 ---
 
-<div align="center">
-
 [geovani.dev](https://geovani.dev) · [linkedin.com/in/mechamogeo](https://linkedin.com/in/mechamogeo) · [dribbble.com/mechamogeo](https://dribbble.com/mechamogeo)
-
-</div>
